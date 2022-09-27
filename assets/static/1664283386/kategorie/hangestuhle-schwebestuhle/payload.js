@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/hangestuhle-schwebestuhle", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/haengesessel-shorea-nature-sonstige-5256359-1.jpg":"\u002Fassets\u002Fimages\u002Fhaengesessel-shorea-nature-sonstige-5256359-1.webp"}}],fetch:{},mutations:void 0});
