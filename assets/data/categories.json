@@ -1,107 +1,226 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "tische",
+        "name": "Tische",
+        "slug": "tische",
+        "productCategory": "Tische",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "bartische",
+        "name": "Bartische",
+        "slug": "bartische",
+        "productCategory": "Bartische",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "stehtische",
+        "name": "Stehtische",
+        "slug": "stehtische",
+        "productCategory": "Stehtische",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "regale",
+        "name": "Regale",
+        "slug": "regale",
+        "productCategory": "Regale",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "weinregale",
+        "name": "Weinregale",
+        "slug": "weinregale",
+        "productCategory": "Weinregale",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "betten",
+        "name": "Betten",
+        "slug": "betten",
+        "productCategory": "Betten",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "funktionsbetten",
+        "name": "Funktionsbetten",
+        "slug": "funktionsbetten",
+        "productCategory": "Funktionsbetten",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "stühle",
+        "name": "Stühle",
+        "slug": "stuhle",
+        "productCategory": "Stühle",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "hängestühle & schwebestühle",
+        "name": "Hängestühle & Schwebestühle",
+        "slug": "hangestuhle-schwebestuhle",
+        "productCategory": "Hängestühle & Schwebestühle",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "wandregal",
+        "name": "Wandregal",
+        "slug": "wandregal",
+        "productCategory": "Wandregal",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
+        "key": "hygieneschutz",
+        "name": "Hygieneschutz",
+        "slug": "hygieneschutz",
+        "productCategory": "Hygieneschutz",
         "subCategories": []
     },
     {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
+        "key": "hocker",
+        "name": "Hocker",
+        "slug": "hocker",
+        "productCategory": "Hocker",
         "subCategories": []
     },
     {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
+        "key": "barhocker",
+        "name": "Barhocker",
+        "slug": "barhocker",
+        "productCategory": "Barhocker",
         "subCategories": []
     },
     {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
+        "key": "essgruppen",
+        "name": "Essgruppen",
+        "slug": "essgruppen",
+        "productCategory": "Essgruppen",
         "subCategories": []
     },
     {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "esszimmerstühle",
+        "name": "Esszimmerstühle",
+        "slug": "esszimmerstuhle",
+        "productCategory": "Esszimmerstühle",
+        "subCategories": []
+    },
+    {
+        "key": "polsterstühle",
+        "name": "Polsterstühle",
+        "slug": "polsterstuhle",
+        "productCategory": "Polsterstühle",
+        "subCategories": []
+    },
+    {
+        "key": "sessel",
+        "name": "Sessel",
+        "slug": "sessel",
+        "productCategory": "Sessel",
+        "subCategories": []
+    },
+    {
+        "key": "hängesessel & schwebesessel",
+        "name": "Hängesessel & Schwebesessel",
+        "slug": "hangesessel-schwebesessel",
+        "productCategory": "Hängesessel & Schwebesessel",
+        "subCategories": []
+    },
+    {
+        "key": "schränke",
+        "name": "Schränke",
+        "slug": "schranke",
+        "productCategory": "Schränke",
+        "subCategories": []
+    },
+    {
+        "key": "garderobenschränke & kompaktgarderoben",
+        "name": "Garderobenschränke & Kompaktgarderoben",
+        "slug": "garderobenschranke-kompaktgarderoben",
+        "productCategory": "Garderobenschränke & Kompaktgarderoben",
+        "subCategories": []
+    },
+    {
+        "key": "kommoden & sideboards",
+        "name": "Kommoden & Sideboards",
+        "slug": "kommoden-sideboards",
+        "productCategory": "Kommoden & Sideboards",
+        "subCategories": []
+    },
+    {
+        "key": "schuhkommoden",
+        "name": "Schuhkommoden",
+        "slug": "schuhkommoden",
+        "productCategory": "Schuhkommoden",
+        "subCategories": []
+    },
+    {
+        "key": "kinderbetten & jugendbetten",
+        "name": "Kinderbetten & Jugendbetten",
+        "slug": "kinderbetten-jugendbetten",
+        "productCategory": "Kinderbetten & Jugendbetten",
+        "subCategories": []
+    },
+    {
+        "key": "abenteuerbetten",
+        "name": "Abenteuerbetten",
+        "slug": "abenteuerbetten",
+        "productCategory": "Abenteuerbetten",
+        "subCategories": []
+    },
+    {
+        "key": "sitzhocker",
+        "name": "Sitzhocker",
+        "slug": "sitzhocker",
+        "productCategory": "Sitzhocker",
+        "subCategories": []
+    },
+    {
+        "key": "klappstühle",
+        "name": "Klappstühle",
+        "slug": "klappstuhle",
+        "productCategory": "Klappstühle",
+        "subCategories": []
+    },
+    {
+        "key": "kinderstühle",
+        "name": "Kinderstühle",
+        "slug": "kinderstuhle",
+        "productCategory": "Kinderstühle",
+        "subCategories": []
+    },
+    {
+        "key": "wohnzimmertische",
+        "name": "Wohnzimmertische",
+        "slug": "wohnzimmertische",
+        "productCategory": "Wohnzimmertische",
+        "subCategories": []
+    },
+    {
+        "key": "beistelltische",
+        "name": "Beistelltische",
+        "slug": "beistelltische",
+        "productCategory": "Beistelltische",
+        "subCategories": []
+    },
+    {
+        "key": "garderoben",
+        "name": "Garderoben",
+        "slug": "garderoben",
+        "productCategory": "Garderoben",
+        "subCategories": []
+    },
+    {
+        "key": "kleiderständer & garderobenständer",
+        "name": "Kleiderständer & Garderobenständer",
+        "slug": "kleiderstander-garderobenstander",
+        "productCategory": "Kleiderständer & Garderobenständer",
+        "subCategories": []
+    },
+    {
+        "key": "türhaken",
+        "name": "Türhaken",
+        "slug": "turhaken",
+        "productCategory": "Türhaken",
         "subCategories": []
     }
 ]
