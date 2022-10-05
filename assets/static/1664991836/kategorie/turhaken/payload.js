@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/turhaken", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/wenko-tuergarderobenhaken-edelstahl-6er-set-wenko-7330236-1.jpg":"\u002Fassets\u002Fimages\u002Fwenko-tuergarderobenhaken-edelstahl-6er-set-wenko-7330236-1.webp"}}],fetch:{},mutations:void 0});

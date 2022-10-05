@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/kinderstuhle", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/kinder-stuhl-safari-adventure-natur-52-cm-x-46-cm-x-61-cm-sonstige-4944864-1.jpg":"\u002Fassets\u002Fimages\u002Fkinder-stuhl-safari-adventure-natur-52-cm-x-46-cm-x-61-cm-sonstige-4944864-1.webp"}}],fetch:{},mutations:void 0});

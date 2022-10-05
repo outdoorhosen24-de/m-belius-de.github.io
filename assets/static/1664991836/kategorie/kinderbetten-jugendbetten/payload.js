@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/kinderbetten-jugendbetten", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/tunnel-fuer-hoch-und-etagenbetten-horse-pink-sonstige-4786422-1.jpg":"\u002Fassets\u002Fimages\u002Ftunnel-fuer-hoch-und-etagenbetten-horse-pink-sonstige-4786422-1.webp"}}],fetch:{},mutations:void 0});

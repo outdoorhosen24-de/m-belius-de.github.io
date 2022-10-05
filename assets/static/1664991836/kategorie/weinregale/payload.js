@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/weinregale", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/wenko-weinregal-loft-bambus-braun-wenko-9181884-1.jpg":"\u002Fassets\u002Fimages\u002Fwenko-weinregal-loft-bambus-braun-wenko-9181884-1.webp"}}],fetch:{},mutations:void 0});

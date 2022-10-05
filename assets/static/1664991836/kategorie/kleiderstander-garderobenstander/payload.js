@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/kleiderstander-garderobenstander", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/wenko-stand-garderobe-mikado-aus-bambus-wenko-3892726-1.jpg":"\u002Fassets\u002Fimages\u002Fwenko-stand-garderobe-mikado-aus-bambus-wenko-3892726-1.webp"}}],fetch:{},mutations:void 0});

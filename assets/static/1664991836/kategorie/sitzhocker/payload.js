@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/sitzhocker", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/siena-garden-hocker-elda-plus-53-cm-x-52-cm-x-47-cm-grau-siena-garden-7207673-1.jpg":"\u002Fassets\u002Fimages\u002Fsiena-garden-hocker-elda-plus-53-cm-x-52-cm-x-47-cm-grau-siena-garden-7207673-1.webp"}}],fetch:{},mutations:void 0});
