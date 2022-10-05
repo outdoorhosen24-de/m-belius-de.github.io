@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "m\u00f6belius.de",
+    "hostname": "https://www.m\u00f6belius.de/",
+    "email": "m\u00f6belius.desurrealnetworks.io",
+    "organization": "m\u00f6belius.de",
+    "logoText": "M\u00f6belius.de",
+    "title": "M\u00f6bel",
+    "subline": "Der Online Shop f\u00fcr M\u00f6bel",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "7330236",
+        "5064530",
+        "4416962",
+        "5951082",
+        "5256359",
+        "7207673"
+    ],
+    "winnerProducts": [
+        "9181884",
+        "4416962",
+        "1076801"
+    ],
+    "featuredCategories": [
+        "Bartische",
+        "Regale",
+        "H\u00e4ngest\u00fchle & Schwebest\u00fchle",
+        "Sessel",
+        "Kinderbetten & Jugendbetten",
+        "Esszimmerst\u00fchle"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "M\u00f6bel",
-        "featureText": "Your featured text goes here",
+        "featureText": "Die M\u00f6bel sind sehr sch\u00f6n. Die Qualit\u00e4t ist sehr gut. Die Preise sind angemessen.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "M\u00f6belgesch\u00e4ft: M\u00f6bel f\u00fcr jeden Geschmack",
+            "metaDescription": "M\u00f6bel f\u00fcr jeden Geschmack und jeden Geldbeutel. Vom einfachen Stuhl bis zum ausgefallenen Sofa - hier findest du alles!",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "M\u00f6bel: Einrichtung f\u00fcr jeden Geschmack",
+                    "text": "M\u00f6bel sind ein wesentlicher Bestandteil unseres Alltags und unserer Umgebung. Sie geben uns die M\u00f6glichkeit, unseren Raum nach unseren W\u00fcnschen und Bed\u00fcrfnissen einzurichten und zu gestalten. M\u00f6bel k\u00f6nnen aus vielen verschiedenen Materialien hergestellt werden, wie Holz, Metall, Glas, Kunststoff oder Leder.\n\nDie meisten Menschen kaufen M\u00f6bel, weil sie praktisch und/oder sch\u00f6n sind. M\u00f6bel m\u00fcssen nicht immer teuer sein, es gibt viele verschiedene Anbieter und Preisklassen. M\u00f6bel k\u00f6nnen auch selbst gebaut werden, was oft billiger ist, aber auch mehr Arbeit bedeutet.\n\nM\u00f6bel sind nicht nur praktisch, sondern k\u00f6nnen auch ein Statement \u00fcber unseren Geschmack und unsere Pers\u00f6nlichkeit sein. Wir k\u00f6nnen unseren Raum mit M\u00f6beln gestalten, die uns gefallen und die unsere Pers\u00f6nlichkeit widerspiegeln.\n\nM\u00f6bel k\u00f6nnen uns auch emotional ber\u00fchren. Wir haben oft eine besondere Beziehung zu bestimmten M\u00f6belst\u00fccken, weil sie uns an sch\u00f6ne Erinnerungen erinnern. Oder weil sie uns von einer geliebten Person geschenkt wurden.\n\nM\u00f6bel sind also nicht nur praktische Gegenst\u00e4nde, sondern k\u00f6nnen auch eine wichtige Rolle in unserem Leben spielen."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "M\u00f6bel Shop",
+            "metaDescription": "M\u00f6bel Shop - Hier findest du eine gro\u00dfe Auswahl an M\u00f6beln f\u00fcr dein Zuhause.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "M\u00f6belhersteller - Die besten M\u00f6belhersteller in Deutschland",
+            "metaDescription": "M\u00f6belhersteller f\u00fcr hochwertige M\u00f6bel. Wir bieten eine gro\u00dfe Auswahl an M\u00f6beln f\u00fcr jeden Geschmack.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "M\u00f6bel $PRODUKT - Dein neues Zuhause",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - die beste Auswahl an $KATEGORIE in Deutschland!",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "M\u00f6bel $KATEGORIE \u2013 Einrichtung f\u00fcr Ihr Zuhause",
+        "defaultMetaDescription": "M\u00f6bel f\u00fcr jeden Geschmack und Geldbeutel. Finde Dein neues Lieblingsst\u00fcck unter $KATEGORIE und lasse Dich von den g\u00fcnstigen Preisen \u00fcberzeugen!",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "M\u00f6bel $HERSTELLER - Hier finden Sie eine gro\u00dfe Auswahl an hochwertigen M\u00f6beln f\u00fcr Ihr Zuhause. Vom Sofa bis zum Schrank - alles zum g\u00fcnstigen Preis!",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "M\u00f6bel",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "M\u00f6bel Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "M\u00f6bel Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
