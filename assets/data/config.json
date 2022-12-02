@@ -51,12 +51,15 @@
             "title": "Möbelgeschäft: Möbel für jeden Geschmack",
             "metaDescription": "Möbel für jeden Geschmack und jeden Geldbeutel. Vom einfachen Stuhl bis zum ausgefallenen Sofa - hier findest du alles!",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Möbel: Einrichtung für jeden Geschmack",
-                    "text": "Möbel sind ein wesentlicher Bestandteil unseres Alltags und unserer Umgebung. Sie geben uns die Möglichkeit, unseren Raum nach unseren Wünschen und Bedürfnissen einzurichten und zu gestalten. Möbel können aus vielen verschiedenen Materialien hergestellt werden, wie Holz, Metall, Glas, Kunststoff oder Leder.\n\nDie meisten Menschen kaufen Möbel, weil sie praktisch und/oder schön sind. Möbel müssen nicht immer teuer sein, es gibt viele verschiedene Anbieter und Preisklassen. Möbel können auch selbst gebaut werden, was oft billiger ist, aber auch mehr Arbeit bedeutet.\n\nMöbel sind nicht nur praktisch, sondern können auch ein Statement über unseren Geschmack und unsere Persönlichkeit sein. Wir können unseren Raum mit Möbeln gestalten, die uns gefallen und die unsere Persönlichkeit widerspiegeln.\n\nMöbel können uns auch emotional berühren. Wir haben oft eine besondere Beziehung zu bestimmten Möbelstücken, weil sie uns an schöne Erinnerungen erinnern. Oder weil sie uns von einer geliebten Person geschenkt wurden.\n\nMöbel sind also nicht nur praktische Gegenstände, sondern können auch eine wichtige Rolle in unserem Leben spielen."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Möbel: Einrichtung für jeden Geschmack",
+                        "text": "Möbel sind ein wesentlicher Bestandteil unseres Alltags und unserer Umgebung. Sie geben uns die Möglichkeit, unseren Raum nach unseren Wünschen und Bedürfnissen einzurichten und zu gestalten. Möbel können aus vielen verschiedenen Materialien hergestellt werden, wie Holz, Metall, Glas, Kunststoff oder Leder.\n\nDie meisten Menschen kaufen Möbel, weil sie praktisch und/oder schön sind. Möbel müssen nicht immer teuer sein, es gibt viele verschiedene Anbieter und Preisklassen. Möbel können auch selbst gebaut werden, was oft billiger ist, aber auch mehr Arbeit bedeutet.\n\nMöbel sind nicht nur praktisch, sondern können auch ein Statement über unseren Geschmack und unsere Persönlichkeit sein. Wir können unseren Raum mit Möbeln gestalten, die uns gefallen und die unsere Persönlichkeit widerspiegeln.\n\nMöbel können uns auch emotional berühren. Wir haben oft eine besondere Beziehung zu bestimmten Möbelstücken, weil sie uns an schöne Erinnerungen erinnern. Oder weil sie uns von einer geliebten Person geschenkt wurden.\n\nMöbel sind also nicht nur praktische Gegenstände, sondern können auch eine wichtige Rolle in unserem Leben spielen."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Möbel Shop",
