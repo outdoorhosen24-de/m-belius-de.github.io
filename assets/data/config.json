@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "möbelius.de",
     "hostname": "https://www.möbelius.de/",
     "email": "möbelius.de@surrealnetworks.io",
     "organization": "möbelius.de",
     "logoText": "Möbelius.de",
-    "title": "Möbel",
-    "subline": "Der Online Shop für Möbel",
+    "title": "Möbel Shop",
+    "subline": "Möbelius - Ihr Möbel Online-Shop",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Möbel",
-        "featureText": "Die Möbel sind sehr schön. Die Qualität ist sehr gut. Die Preise sind angemessen.",
+        "featureText": "Willkommen in unserem Shop! Entdecken Sie tolle Möbel für ein schönes Zuhause. Unser Angebot umfasst Stühle & Sessel, Tische, Regale, Betten, Kommoden & Sideboards, Garderoben & Kleiderständer uvm. Um Ihnen ein Höchstmaß an Zufriedenheit zu garantieren, halten wir uns bei der Zusammenstellung unseres Sortiments an Qualitätsstandards. So finden Sie Produkte von Herstellern wie Wenko, Greemotion, Siena Garden und Co. Euer Möbelius-Team wünscht Ihnen viel Spaß beim Shoppen!",
         "index": {
-            "title": "Möbelgeschäft: Möbel für jeden Geschmack",
-            "metaDescription": "Möbel für jeden Geschmack und jeden Geldbeutel. Vom einfachen Stuhl bis zum ausgefallenen Sofa - hier findest du alles!",
+            "title": "Möbel für die Wohnung | Möbelius.de",
+            "metaDescription": "Entdecken Sie Stühle, Tische, Betten, Kommoden, Regale und vieles mehr - in allen Stilrichtungen! | Große Auswahl an schönen Möbeln.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Möbel Shop",
-            "metaDescription": "Möbel Shop - Hier findest du eine große Auswahl an Möbeln für dein Zuhause.",
+            "title": "möbelius.de | Der Shop für Möbel",
+            "metaDescription": "Hier gibt's alles, was das Herz begehrt: Stuhl, Tisch, Bett, Kommode, Regal und mehr! | Große Auswahl & einfache Produktsuche. Schnelle Lieferung.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Möbelhersteller - Die besten Möbelhersteller in Deutschland",
-            "metaDescription": "Möbelhersteller für hochwertige Möbel. Wir bieten eine große Auswahl an Möbeln für jeden Geschmack.",
+            "title": "Wohnmöbel | Die besten Möbelhersteller Deutschlands",
+            "metaDescription": "Unsere Möbelhersteller auf einen Blick. | Entdecken Sie Qualitätsmöbel namhafter Hersteller wie: Wenko, Greemotion, Siena Garden, Lechuza, Posseik uvm.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Möbel $PRODUKT - Dein neues Zuhause",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - die beste Auswahl an $KATEGORIE in Deutschland!",
+        "defaultTitle": "$PRODUKT kaufen auf Möbelius.de",
+        "defaultMetaDescription": "Entdecken Sie in der Kategorie $KATEGORIE tolle Möbel wie $PRODUKT von namhaften Herstellern wie z.B. $HERSTELLER. | Sofort verfügbar & schnell geliefert!",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Möbel $KATEGORIE – Einrichtung für Ihr Zuhause",
-        "defaultMetaDescription": "Möbel für jeden Geschmack und Geldbeutel. Finde Dein neues Lieblingsstück unter $KATEGORIE und lasse Dich von den günstigen Preisen überzeugen!",
+        "defaultTitle": "$KATEGORIE – Große Auswahl und preiswert",
+        "defaultMetaDescription": "Möbel für jeden Geschmack und jedes Budget. Überzeuge dich von der großen Auswahl in unserem Shop und finde dein neues Lieblingsstück im Bereich $KATEGORIE!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "Möbel $HERSTELLER - Hier finden Sie eine große Auswahl an hochwertigen Möbeln für Ihr Zuhause. Vom Sofa bis zum Schrank - alles zum günstigen Preis!",
+        "defaultTitle": "$HERSTELLER - Qualität zu fairen Preisen",
+        "defaultMetaDescription": "Entdecken Sie tolle Möbel des renommierten Herstellers $HERSTELLER | Hochwertig verarbeitete Möbel zu fairen Preisen. | Im Shop erhältlich & sofort lieferbar.",
         "defaultRobots": "index, follow",
         "brands": [
             {
