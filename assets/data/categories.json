@@ -51,14 +51,14 @@
     {
         "key": "stühle",
         "name": "Stühle",
-        "slug": "stuhle",
+        "slug": "stuehle",
         "productCategory": "Stühle",
         "subCategories": []
     },
     {
         "key": "hängestühle & schwebestühle",
         "name": "Hängestühle & Schwebestühle",
-        "slug": "hangestuhle-schwebestuhle",
+        "slug": "haengestuehle-schwebestuehle",
         "productCategory": "Hängestühle & Schwebestühle",
         "subCategories": []
     },
@@ -100,14 +100,14 @@
     {
         "key": "esszimmerstühle",
         "name": "Esszimmerstühle",
-        "slug": "esszimmerstuhle",
+        "slug": "esszimmerstuehle",
         "productCategory": "Esszimmerstühle",
         "subCategories": []
     },
     {
         "key": "polsterstühle",
         "name": "Polsterstühle",
-        "slug": "polsterstuhle",
+        "slug": "polsterstuehle",
         "productCategory": "Polsterstühle",
         "subCategories": []
     },
@@ -121,21 +121,21 @@
     {
         "key": "hängesessel & schwebesessel",
         "name": "Hängesessel & Schwebesessel",
-        "slug": "hangesessel-schwebesessel",
+        "slug": "haengesessel-schwebesessel",
         "productCategory": "Hängesessel & Schwebesessel",
         "subCategories": []
     },
     {
         "key": "schränke",
         "name": "Schränke",
-        "slug": "schranke",
+        "slug": "schraenke",
         "productCategory": "Schränke",
         "subCategories": []
     },
     {
         "key": "garderobenschränke & kompaktgarderoben",
         "name": "Garderobenschränke & Kompaktgarderoben",
-        "slug": "garderobenschranke-kompaktgarderoben",
+        "slug": "garderobenschraenke-kompaktgarderoben",
         "productCategory": "Garderobenschränke & Kompaktgarderoben",
         "subCategories": []
     },
@@ -177,14 +177,14 @@
     {
         "key": "klappstühle",
         "name": "Klappstühle",
-        "slug": "klappstuhle",
+        "slug": "klappstuehle",
         "productCategory": "Klappstühle",
         "subCategories": []
     },
     {
         "key": "kinderstühle",
         "name": "Kinderstühle",
-        "slug": "kinderstuhle",
+        "slug": "kinderstuehle",
         "productCategory": "Kinderstühle",
         "subCategories": []
     },
@@ -212,14 +212,14 @@
     {
         "key": "kleiderständer & garderobenständer",
         "name": "Kleiderständer & Garderobenständer",
-        "slug": "kleiderstander-garderobenstander",
+        "slug": "kleiderstaender-garderobenstaender",
         "productCategory": "Kleiderständer & Garderobenständer",
         "subCategories": []
     },
     {
         "key": "türhaken",
         "name": "Türhaken",
-        "slug": "turhaken",
+        "slug": "tuerhaken",
         "productCategory": "Türhaken",
         "subCategories": []
     }
