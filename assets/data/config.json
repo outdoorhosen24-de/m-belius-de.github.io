@@ -1,12 +1,12 @@
 {
   "configIsReady": true,
-  "domain": "m\u00f6belius.de",
-  "hostname": "https://www.m\u00f6belius.de/",
-  "email": "m\u00f6belius.de@surrealnetworks.io",
-  "organization": "m\u00f6belius.de",
-  "logoText": "M\u00f6belius.de",
-  "title": "M\u00f6bel Shop",
-  "subline": "M\u00f6belius - Ihr M\u00f6bel Online-Shop",
+  "domain": "möbelius.de",
+  "hostname": "https://www.möbelius.de/",
+  "email": "möbelius.de@surrealnetworks.io",
+  "organization": "möbelius.de",
+  "logoText": "Möbelius.de",
+  "title": "Möbel Shop",
+  "subline": "Möbelius - Ihr Möbel Online-Shop",
   "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
   "imageFolder": "/assets/images/images/",
   "productUrl": "/produkt/",
@@ -30,10 +30,10 @@
   "featuredCategories": [
     "Bartische",
     "Regale",
-    "H\u00e4ngest\u00fchle & Schwebest\u00fchle",
+    "Hängestühle & Schwebestühle",
     "Sessel",
     "Kinderbetten & Jugendbetten",
-    "Esszimmerst\u00fchle"
+    "Esszimmerstühle"
   ],
   "socialMediaAccounts": [],
   "imageQuality": 90,
@@ -45,180 +45,213 @@
   ],
   "seo": {
     "htmlLang": "de",
-    "mainKeyword": "M\u00f6bel",
-    "featureText": "Willkommen in unserem Shop! Entdecken Sie tolle M\u00f6bel f\u00fcr ein sch\u00f6nes Zuhause. Unser Angebot umfasst St\u00fchle & Sessel, Tische, Regale, Betten, Kommoden & Sideboards, Garderoben & Kleiderst\u00e4nder uvm. Um Ihnen ein H\u00f6chstma\u00df an Zufriedenheit zu garantieren, halten wir uns bei der Zusammenstellung unseres Sortiments an Qualit\u00e4tsstandards. So finden Sie Produkte von Herstellern wie Wenko, Greemotion, Siena Garden und Co. Euer M\u00f6belius-Team w\u00fcnscht Ihnen viel Spa\u00df beim Shoppen!",
+    "mainKeyword": "Möbel",
+    "featureText": "Willkommen in unserem Shop! Entdecken Sie tolle Möbel für ein schönes Zuhause. Unser Angebot umfasst Stühle & Sessel, Tische, Regale, Betten, Kommoden & Sideboards, Garderoben & Kleiderständer uvm. Um Ihnen ein Höchstmaß an Zufriedenheit zu garantieren, halten wir uns bei der Zusammenstellung unseres Sortiments an Qualitätsstandards. So finden Sie Produkte von Herstellern wie Wenko, Greemotion, Siena Garden und Co. Euer Möbelius-Team wünscht Ihnen viel Spaß beim Shoppen!",
     "index": {
-      "title": "M\u00f6bel f\u00fcr die Wohnung | M\u00f6belius.de",
-      "metaDescription": "Entdecken Sie St\u00fchle, Tische, Betten, Kommoden, Regale und vieles mehr - in allen Stilrichtungen! | Gro\u00dfe Auswahl an sch\u00f6nen M\u00f6beln.",
+      "title": "Möbel für die Wohnung | Möbelius.de",
+      "metaDescription": "Entdecken Sie Stühle, Tische, Betten, Kommoden, Regale und vieles mehr - in allen Stilrichtungen! | Große Auswahl an schönen Möbeln.",
       "robots": "index, follow",
       "seotext": {
         "published": true,
         "content": [
           {
-            "title": "Willkommen bei M\u00f6belius - Ihrem Online-Shop f\u00fcr M\u00f6bel",
-            "text": "Herzlich willkommen bei M\u00f6belius, Ihrem Online-Shop f\u00fcr hochwertige M\u00f6bel. Wir bieten Ihnen eine gro\u00dfe Auswahl an Tischen, Bartischen, Stehtischen, Regalen, Weinregalen, Betten, Funktionsbetten, St\u00fchlen, H\u00e4ngest\u00fchlen und Schwebest\u00fchlen sowie Wandregalen. Alle unsere M\u00f6bel werden sorgf\u00e4ltig ausgew\u00e4hlt und sind von h\u00f6chster Qualit\u00e4t. Unsere M\u00f6bel zeichnen sich durch zeitloses Design, hochwertige Materialien und eine robuste Verarbeitung aus. Ob Sie ein neues Bett, einen neuen Tisch oder ein neues Regal suchen, bei uns werden Sie garantiert f\u00fcndig. St\u00f6bern Sie durch unser umfangreiches Sortiment und finden Sie das perfekte M\u00f6belst\u00fcck f\u00fcr Ihr Zuhause. Wir freuen uns, Sie bei M\u00f6belius begr\u00fc\u00dfen zu d\u00fcrfen."
+            "title": "Willkommen bei Möbelius - Ihrem Online-Shop für Möbel",
+            "text": "Herzlich willkommen bei Möbelius, Ihrem Online-Shop für hochwertige Möbel. Wir bieten Ihnen eine große Auswahl an Tischen, Bartischen, Stehtischen, Regalen, Weinregalen, Betten, Funktionsbetten, Stühlen, Hängestühlen und Schwebestühlen sowie Wandregalen. Alle unsere Möbel werden sorgfältig ausgewählt und sind von höchster Qualität. Unsere Möbel zeichnen sich durch zeitloses Design, hochwertige Materialien und eine robuste Verarbeitung aus. Ob Sie ein neues Bett, einen neuen Tisch oder ein neues Regal suchen, bei uns werden Sie garantiert fündig. Stöbern Sie durch unser umfangreiches Sortiment und finden Sie das perfekte Möbelstück für Ihr Zuhause. Wir freuen uns, Sie bei Möbelius begrüßen zu dürfen."
           },
           {
-            "title": "Tische bei M\u00f6belius",
-            "text": "Sie suchen hochwertige Tische f\u00fcr Ihr Zuhause? Dann sind Sie bei M\u00f6belius genau richtig! Wir bieten eine gro\u00dfe Auswahl an Tischen in verschiedenen Gr\u00f6\u00dfen, Materialien und Stilen. Ob Sie einen Esstisch, einen Schreibtisch oder einen Couchtisch suchen, bei uns werden Sie f\u00fcndig. Wir legen gro\u00dfen Wert auf Qualit\u00e4t und Verarbeitung, damit Sie lange Freude an Ihrem Tisch haben. Entdecken Sie jetzt unser Angebot an Tischen."
+            "title": "Tische bei Möbelius",
+            "text": "Sie suchen hochwertige Tische für Ihr Zuhause? Dann sind Sie bei Möbelius genau richtig! Wir bieten eine große Auswahl an Tischen in verschiedenen Größen, Materialien und Stilen. Ob Sie einen Esstisch, einen Schreibtisch oder einen Couchtisch suchen, bei uns werden Sie fündig. Wir legen großen Wert auf Qualität und Verarbeitung, damit Sie lange Freude an Ihrem Tisch haben. Entdecken Sie jetzt unser Angebot an Tischen."
           },
           {
-            "title": "Bartische bei M\u00f6belius",
-            "text": "Sie m\u00f6chten Ihr Zuhause mit einem stylischen Bartisch aufwerten? Dann schauen Sie bei M\u00f6belius vorbei! Wir bieten eine gro\u00dfe Auswahl an Bartischen in verschiedenen Gr\u00f6\u00dfen, Materialien und Designs. Ob Sie einen klassischen Holzbartisch oder einen modernen Hochglanzbartisch suchen, bei uns werden Sie f\u00fcndig. Unsere Bartische sind robust und langlebig, damit Sie lange Freude an Ihrem neuen M\u00f6belst\u00fcck haben. Entdecken Sie jetzt unser Angebot an Bartischen."
+            "title": "Bartische bei Möbelius",
+            "text": "Sie möchten Ihr Zuhause mit einem stylischen Bartisch aufwerten? Dann schauen Sie bei Möbelius vorbei! Wir bieten eine große Auswahl an Bartischen in verschiedenen Größen, Materialien und Designs. Ob Sie einen klassischen Holzbartisch oder einen modernen Hochglanzbartisch suchen, bei uns werden Sie fündig. Unsere Bartische sind robust und langlebig, damit Sie lange Freude an Ihrem neuen Möbelstück haben. Entdecken Sie jetzt unser Angebot an Bartischen."
           },
           {
-            "title": "Stehtische bei M\u00f6belius",
-            "text": "Sie suchen einen praktischen Stehtisch f\u00fcr Ihr Zuhause oder Ihre G\u00e4ste? Dann sind Sie bei M\u00f6belius genau richtig! Wir bieten eine gro\u00dfe Auswahl an Stehtischen in verschiedenen Gr\u00f6\u00dfen, Materialien und Designs. Ob Sie einen klappbaren Stehtisch f\u00fcr den Balkon oder einen h\u00f6henverstellbaren Stehtisch f\u00fcr Ihr B\u00fcro suchen, bei uns werden Sie f\u00fcndig. Unsere Stehtische sind stabil und langlebig, damit Sie lange Freude an Ihrem neuen M\u00f6belst\u00fcck haben. Entdecken Sie jetzt unser Angebot an Stehtischen."
+            "title": "Stehtische bei Möbelius",
+            "text": "Sie suchen einen praktischen Stehtisch für Ihr Zuhause oder Ihre Gäste? Dann sind Sie bei Möbelius genau richtig! Wir bieten eine große Auswahl an Stehtischen in verschiedenen Größen, Materialien und Designs. Ob Sie einen klappbaren Stehtisch für den Balkon oder einen höhenverstellbaren Stehtisch für Ihr Büro suchen, bei uns werden Sie fündig. Unsere Stehtische sind stabil und langlebig, damit Sie lange Freude an Ihrem neuen Möbelstück haben. Entdecken Sie jetzt unser Angebot an Stehtischen."
           },
           {
-            "title": "Regale bei M\u00f6belius.de",
-            "text": "Entdecken Sie die gro\u00dfe Auswahl an Regalen bei M\u00f6belius.de. Ob f\u00fcr B\u00fccher, Dekorationen oder als Ablagefl\u00e4che, unser Sortiment bietet f\u00fcr jeden Bedarf das passende Regal. W\u00e4hlen Sie aus verschiedenen Materialien, Farben und Gr\u00f6\u00dfen und finden Sie Ihr neues Lieblingsregal. Bestellen Sie noch heute bequem online bei M\u00f6belius.de."
+            "title": "Regale bei Möbelius.de",
+            "text": "Entdecken Sie die große Auswahl an Regalen bei Möbelius.de. Ob für Bücher, Dekorationen oder als Ablagefläche, unser Sortiment bietet für jeden Bedarf das passende Regal. Wählen Sie aus verschiedenen Materialien, Farben und Größen und finden Sie Ihr neues Lieblingsregal. Bestellen Sie noch heute bequem online bei Möbelius.de."
           },
           {
-            "title": "Weinregale bei M\u00f6belius.de",
-            "text": "Sie sind ein Weinliebhaber und m\u00f6chten Ihre edlen Tropfen stilvoll pr\u00e4sentieren? Dann sind Sie bei M\u00f6belius.de genau richtig. Entdecken Sie unser Sortiment an Weinregalen und finden Sie das perfekte Regal f\u00fcr Ihre Weinsammlung. Ob aus Holz, Metall oder anderen Materialien, bei uns finden Sie das passende Weinregal f\u00fcr Ihren Geschmack. Bestellen Sie jetzt bequem online bei M\u00f6belius.de."
+            "title": "Weinregale bei Möbelius.de",
+            "text": "Sie sind ein Weinliebhaber und möchten Ihre edlen Tropfen stilvoll präsentieren? Dann sind Sie bei Möbelius.de genau richtig. Entdecken Sie unser Sortiment an Weinregalen und finden Sie das perfekte Regal für Ihre Weinsammlung. Ob aus Holz, Metall oder anderen Materialien, bei uns finden Sie das passende Weinregal für Ihren Geschmack. Bestellen Sie jetzt bequem online bei Möbelius.de."
           },
           {
-            "title": "Betten bei M\u00f6belius.de",
-            "text": "Erholsamer Schlaf ist die Basis f\u00fcr einen guten Start in den Tag. Bei M\u00f6belius.de finden Sie eine gro\u00dfe Auswahl an Betten in verschiedenen Gr\u00f6\u00dfen, Stilen und Materialien. Ob Boxspringbetten, Bettgestelle oder Funktionsbetten, bei uns finden Sie das passende Bett f\u00fcr Ihre Bed\u00fcrfnisse. Entdecken Sie jetzt unser Sortiment und bestellen Sie bequem online bei M\u00f6belius.de."
+            "title": "Betten bei Möbelius.de",
+            "text": "Erholsamer Schlaf ist die Basis für einen guten Start in den Tag. Bei Möbelius.de finden Sie eine große Auswahl an Betten in verschiedenen Größen, Stilen und Materialien. Ob Boxspringbetten, Bettgestelle oder Funktionsbetten, bei uns finden Sie das passende Bett für Ihre Bedürfnisse. Entdecken Sie jetzt unser Sortiment und bestellen Sie bequem online bei Möbelius.de."
           },
           {
             "title": "Funktionsbetten",
-            "text": "Entdecken Sie bei M\u00f6belius eine gro\u00dfe Auswahl an <a href=\"/kategorie/funktionsbetten/\" title=\"Funktionsbetten\">Funktionsbetten</a>. Unsere Funktionsbetten sind nicht nur bequem, sondern auch praktisch und bieten zus\u00e4tzlichen Stauraum. W\u00e4hlen Sie aus verschiedenen Gr\u00f6\u00dfen, Farben und Designs, um das perfekte Funktionsbett f\u00fcr Ihr Schlafzimmer zu finden. Unsere Betten sind aus hochwertigen Materialien gefertigt und sorgen f\u00fcr einen erholsamen Schlaf. Bestellen Sie noch heute Ihr Funktionsbett bei M\u00f6belius."
+            "text": "Entdecken Sie bei Möbelius eine große Auswahl an <a href=\"/kategorie/funktionsbetten/\" title=\"Funktionsbetten\">Funktionsbetten</a>. Unsere Funktionsbetten sind nicht nur bequem, sondern auch praktisch und bieten zusätzlichen Stauraum. Wählen Sie aus verschiedenen Größen, Farben und Designs, um das perfekte Funktionsbett für Ihr Schlafzimmer zu finden. Unsere Betten sind aus hochwertigen Materialien gefertigt und sorgen für einen erholsamen Schlaf. Bestellen Sie noch heute Ihr Funktionsbett bei Möbelius."
           },
           {
-            "title": "St\u00fchle",
-            "text": "<a href=\"/kategorie/stuehle/\" title=\"St\u00fchle\">St\u00fchle</a> sind ein wichtiger Bestandteil jedes Zimmers. Bei M\u00f6belius finden Sie eine gro\u00dfe Auswahl an St\u00fchlen in verschiedenen Stilen, Farben und Gr\u00f6\u00dfen. Ob Sie nach einem komfortablen Sessel f\u00fcr Ihr Wohnzimmer oder nach einem Stuhl f\u00fcr Ihren Schreibtisch suchen, bei uns werden Sie f\u00fcndig. Unsere St\u00fchle sind bequem und stabil und werden Ihnen lange Freude bereiten. Bestellen Sie noch heute Ihren neuen Stuhl bei M\u00f6belius."
+            "title": "Stühle",
+            "text": "<a href=\"/kategorie/stuehle/\" title=\"Stühle\">Stühle</a> sind ein wichtiger Bestandteil jedes Zimmers. Bei Möbelius finden Sie eine große Auswahl an Stühlen in verschiedenen Stilen, Farben und Größen. Ob Sie nach einem komfortablen Sessel für Ihr Wohnzimmer oder nach einem Stuhl für Ihren Schreibtisch suchen, bei uns werden Sie fündig. Unsere Stühle sind bequem und stabil und werden Ihnen lange Freude bereiten. Bestellen Sie noch heute Ihren neuen Stuhl bei Möbelius."
           },
           {
-            "title": "H\u00e4ngest\u00fchle & Schwebest\u00fchle",
-            "text": "F\u00fcgen Sie einen Hauch von Eleganz und Gem\u00fctlichkeit zu Ihrem Zuhause hinzu mit den H\u00e4ngest\u00fchlen und Schwebest\u00fchlen von M\u00f6belius. Unsere H\u00e4ngest\u00fchle und Schwebest\u00fchle sind aus hochwertigen Materialien gefertigt und bieten h\u00f6chsten Komfort. W\u00e4hlen Sie aus verschiedenen Farben und Designs, um das perfekte Modell f\u00fcr Ihr Zuhause zu finden. Bestellen Sie noch heute Ihren neuen H\u00e4ngestuhl oder Schwebestuhl bei M\u00f6belius."
+            "title": "Hängestühle & Schwebestühle",
+            "text": "Fügen Sie einen Hauch von Eleganz und Gemütlichkeit zu Ihrem Zuhause hinzu mit den Hängestühlen und Schwebestühlen von Möbelius. Unsere Hängestühle und Schwebestühle sind aus hochwertigen Materialien gefertigt und bieten höchsten Komfort. Wählen Sie aus verschiedenen Farben und Designs, um das perfekte Modell für Ihr Zuhause zu finden. Bestellen Sie noch heute Ihren neuen Hängestuhl oder Schwebestuhl bei Möbelius."
           },
           {
-            "title": "Wandregale von M\u00f6belius",
-            "text": "Das Wandregal ist ein wichtiger Bestandteil jeder Wohnung. Es bietet nicht nur Stauraum, sondern verleiht auch dem Raum ein stilvolles Aussehen. Bei M\u00f6belius finden Sie eine gro\u00dfe Auswahl an Wandregalen, die perfekt zu Ihrem Einrichtungsstil passen. Von modernen Wandregalen aus Glas und Metall bis hin zu klassischen Regalen aus Holz, bei uns werden Sie garantiert f\u00fcndig. Schauen Sie sich jetzt um und entdecken Sie die vielf\u00e4ltigen M\u00f6glichkeiten, wie Sie Ihre W\u00e4nde mit einem Wandregal von M\u00f6belius versch\u00f6nern k\u00f6nnen."
+            "title": "Wandregale von Möbelius",
+            "text": "Das Wandregal ist ein wichtiger Bestandteil jeder Wohnung. Es bietet nicht nur Stauraum, sondern verleiht auch dem Raum ein stilvolles Aussehen. Bei Möbelius finden Sie eine große Auswahl an Wandregalen, die perfekt zu Ihrem Einrichtungsstil passen. Von modernen Wandregalen aus Glas und Metall bis hin zu klassischen Regalen aus Holz, bei uns werden Sie garantiert fündig. Schauen Sie sich jetzt um und entdecken Sie die vielfältigen Möglichkeiten, wie Sie Ihre Wände mit einem Wandregal von Möbelius verschönern können."
           },
           {
-            "title": "Hygieneschutz von M\u00f6belius",
-            "text": "In Zeiten von Corona ist Hygieneschutz wichtiger denn je. M\u00f6belius bietet Ihnen eine gro\u00dfe Auswahl an Produkten, die Ihnen und Ihren Liebsten Schutz vor Viren und Bakterien bieten. Ob Hygienetrennw\u00e4nde, Abstandshalter oder Desinfektionsspender, bei uns finden Sie alles, was Sie f\u00fcr einen sicheren Arbeits- und Wohnbereich ben\u00f6tigen. Schauen Sie sich jetzt um und entdecken Sie, wie Sie Ihre Umgebung hygienisch und sicher gestalten k\u00f6nnen."
+            "title": "Hygieneschutz von Möbelius",
+            "text": "In Zeiten von Corona ist Hygieneschutz wichtiger denn je. Möbelius bietet Ihnen eine große Auswahl an Produkten, die Ihnen und Ihren Liebsten Schutz vor Viren und Bakterien bieten. Ob Hygienetrennwände, Abstandshalter oder Desinfektionsspender, bei uns finden Sie alles, was Sie für einen sicheren Arbeits- und Wohnbereich benötigen. Schauen Sie sich jetzt um und entdecken Sie, wie Sie Ihre Umgebung hygienisch und sicher gestalten können."
           },
           {
-            "title": "Hocker von M\u00f6belius",
-            "text": "Ein Hocker ist ein praktisches M\u00f6belst\u00fcck, das in vielen R\u00e4umen eingesetzt werden kann. Ob in der K\u00fcche, im Badezimmer oder im Wohnzimmer, ein Hocker bietet zus\u00e4tzliche Sitzm\u00f6glichkeiten und l\u00e4sst sich platzsparend verstauen. Bei M\u00f6belius finden Sie eine gro\u00dfe Auswahl an Hockern in verschiedenen Gr\u00f6\u00dfen, Farben und Materialien. Entdecken Sie jetzt unsere Vielfalt an Hockern und finden Sie den perfekten Hocker f\u00fcr Ihre Bed\u00fcrfnisse."
+            "title": "Hocker von Möbelius",
+            "text": "Ein Hocker ist ein praktisches Möbelstück, das in vielen Räumen eingesetzt werden kann. Ob in der Küche, im Badezimmer oder im Wohnzimmer, ein Hocker bietet zusätzliche Sitzmöglichkeiten und lässt sich platzsparend verstauen. Bei Möbelius finden Sie eine große Auswahl an Hockern in verschiedenen Größen, Farben und Materialien. Entdecken Sie jetzt unsere Vielfalt an Hockern und finden Sie den perfekten Hocker für Ihre Bedürfnisse."
           },
           {
             "title": "Barhocker",
-            "text": "Entdecken Sie die gro\u00dfe Auswahl an <a href=\"/kategorie/barhocker/\" title=\"Barhocker\">Barhocker</a>n bei M\u00f6belius. Wir bieten Ihnen eine breite Palette an Designs, Farben und Gr\u00f6\u00dfen, damit Sie den perfekten Barhocker f\u00fcr Ihre K\u00fcche oder Ihren Wohnbereich finden k\u00f6nnen. Ob Sie einen klassischen, modernen oder eleganten Stil bevorzugen, bei uns werden Sie garantiert f\u00fcndig. Unsere Barhocker sind bequem, stabil und langlebig, damit Sie viele Jahre Freude daran haben. Besuchen Sie unseren Online-Shop und \u00fcberzeugen Sie sich selbst."
+            "text": "Entdecken Sie die große Auswahl an <a href=\"/kategorie/barhocker/\" title=\"Barhocker\">Barhocker</a>n bei Möbelius. Wir bieten Ihnen eine breite Palette an Designs, Farben und Größen, damit Sie den perfekten Barhocker für Ihre Küche oder Ihren Wohnbereich finden können. Ob Sie einen klassischen, modernen oder eleganten Stil bevorzugen, bei uns werden Sie garantiert fündig. Unsere Barhocker sind bequem, stabil und langlebig, damit Sie viele Jahre Freude daran haben. Besuchen Sie unseren Online-Shop und überzeugen Sie sich selbst."
           },
           {
             "title": "Essgruppen",
-            "text": "Mit einer Essgruppe von M\u00f6belius k\u00f6nnen Sie Ihren Essbereich in eine gem\u00fctliche Oase verwandeln. Wir bieten Ihnen eine gro\u00dfe Auswahl an <a href=\"/kategorie/essgruppen/\" title=\"Essgruppen\">Essgruppen</a> in verschiedenen Gr\u00f6\u00dfen, Stilen und Farben, damit Sie genau das finden, was zu Ihrem Zuhause passt. Ob Sie eine kleine Essgruppe f\u00fcr Ihre Single-Wohnung oder eine gro\u00dfe Essgruppe f\u00fcr Ihre Familie ben\u00f6tigen, bei uns werden Sie f\u00fcndig. Unsere Essgruppen sind bequem, praktisch und langlebig, damit Sie viele Jahre Freude daran haben. Besuchen Sie unseren Online-Shop und \u00fcberzeugen Sie sich selbst."
+            "text": "Mit einer Essgruppe von Möbelius können Sie Ihren Essbereich in eine gemütliche Oase verwandeln. Wir bieten Ihnen eine große Auswahl an <a href=\"/kategorie/essgruppen/\" title=\"Essgruppen\">Essgruppen</a> in verschiedenen Größen, Stilen und Farben, damit Sie genau das finden, was zu Ihrem Zuhause passt. Ob Sie eine kleine Essgruppe für Ihre Single-Wohnung oder eine große Essgruppe für Ihre Familie benötigen, bei uns werden Sie fündig. Unsere Essgruppen sind bequem, praktisch und langlebig, damit Sie viele Jahre Freude daran haben. Besuchen Sie unseren Online-Shop und überzeugen Sie sich selbst."
           },
           {
-            "title": "Esszimmerst\u00fchle",
-            "text": "Mit den <a href=\"/kategorie/esszimmerstuehle/\" title=\"Esszimmerst\u00fchle\">Esszimmerst\u00fchle</a>n von M\u00f6belius k\u00f6nnen Sie Ihren Essbereich stilvoll und bequem gestalten. Wir bieten Ihnen eine gro\u00dfe Auswahl an Esszimmerst\u00fchlen in verschiedenen Designs, Farben und Gr\u00f6\u00dfen, damit Sie genau den Stuhl finden, der zu Ihrem Zuhause passt. Ob Sie einen klassischen, modernen oder eleganten Stil bevorzugen, bei uns werden Sie garantiert f\u00fcndig. Unsere Esszimmerst\u00fchle sind bequem, stabil und langlebig, damit Sie viele Jahre Freude daran haben. Besuchen Sie unseren Online-Shop und \u00fcberzeugen Sie sich selbst."
+            "title": "Esszimmerstühle",
+            "text": "Mit den <a href=\"/kategorie/esszimmerstuehle/\" title=\"Esszimmerstühle\">Esszimmerstühle</a>n von Möbelius können Sie Ihren Essbereich stilvoll und bequem gestalten. Wir bieten Ihnen eine große Auswahl an Esszimmerstühlen in verschiedenen Designs, Farben und Größen, damit Sie genau den Stuhl finden, der zu Ihrem Zuhause passt. Ob Sie einen klassischen, modernen oder eleganten Stil bevorzugen, bei uns werden Sie garantiert fündig. Unsere Esszimmerstühle sind bequem, stabil und langlebig, damit Sie viele Jahre Freude daran haben. Besuchen Sie unseren Online-Shop und überzeugen Sie sich selbst."
           },
           {
-            "title": "Polsterst\u00fchle",
-            "text": "Entdecken Sie bei M\u00f6belius eine gro\u00dfe Auswahl an bequemen und stilvollen <a href=\"/kategorie/polsterstuehle/\" title=\"Polsterst\u00fchle\">Polsterst\u00fchle</a>n. Unsere Polsterst\u00fchle sind in verschiedenen Gr\u00f6\u00dfen, Farben und Materialien erh\u00e4ltlich und bieten eine Vielzahl von Optionen f\u00fcr jeden Einrichtungsstil. Wir haben sowohl klassische als auch moderne Designs, die perfekt zu Ihrer Einrichtung passen. Ob f\u00fcr Ihr Esszimmer, Wohnzimmer oder B\u00fcro, mit einem Polsterstuhl von M\u00f6belius k\u00f6nnen Sie sicher sein, dass Sie bequem und stilvoll sitzen werden."
+            "title": "Polsterstühle",
+            "text": "Entdecken Sie bei Möbelius eine große Auswahl an bequemen und stilvollen <a href=\"/kategorie/polsterstuehle/\" title=\"Polsterstühle\">Polsterstühle</a>n. Unsere Polsterstühle sind in verschiedenen Größen, Farben und Materialien erhältlich und bieten eine Vielzahl von Optionen für jeden Einrichtungsstil. Wir haben sowohl klassische als auch moderne Designs, die perfekt zu Ihrer Einrichtung passen. Ob für Ihr Esszimmer, Wohnzimmer oder Büro, mit einem Polsterstuhl von Möbelius können Sie sicher sein, dass Sie bequem und stilvoll sitzen werden."
           },
           {
             "title": "Sessel",
-            "text": "Erleben Sie ultimativen Komfort mit unseren <a href=\"/kategorie/sessel/\" title=\"Sessel\">Sessel</a>n von M\u00f6belius. Unsere Sessel sind in einer Vielzahl von Gr\u00f6\u00dfen, Farben und Stilen erh\u00e4ltlich und bieten eine bequeme Sitzm\u00f6glichkeit f\u00fcr jeden Raum in Ihrem Zuhause. Ob Sie einen Sessel f\u00fcr Ihr Wohnzimmer, Schlafzimmer oder B\u00fcro suchen, bei M\u00f6belius finden Sie sicherlich das perfekte Modell f\u00fcr Sie. Unsere Sessel werden aus hochwertigen Materialien hergestellt und bieten eine lange Lebensdauer."
+            "text": "Erleben Sie ultimativen Komfort mit unseren <a href=\"/kategorie/sessel/\" title=\"Sessel\">Sessel</a>n von Möbelius. Unsere Sessel sind in einer Vielzahl von Größen, Farben und Stilen erhältlich und bieten eine bequeme Sitzmöglichkeit für jeden Raum in Ihrem Zuhause. Ob Sie einen Sessel für Ihr Wohnzimmer, Schlafzimmer oder Büro suchen, bei Möbelius finden Sie sicherlich das perfekte Modell für Sie. Unsere Sessel werden aus hochwertigen Materialien hergestellt und bieten eine lange Lebensdauer."
           },
           {
-            "title": "H\u00e4ngesessel & Schwebesessel",
-            "text": "Erleben Sie Entspannung auf eine neue Art und Weise mit unseren H\u00e4ngesesseln und Schwebesesseln von M\u00f6belius. Diese Sessel bieten eine bequeme und entspannende Sitzm\u00f6glichkeit, die Sie auf eine schwebende Reise durch Ihr Zuhause mitnimmt. Unsere H\u00e4ngesessel und Schwebesessel sind in verschiedenen Gr\u00f6\u00dfen, Farben und Materialien erh\u00e4ltlich und eignen sich perfekt f\u00fcr den Einsatz im Freien oder Innenbereich. Entspannen Sie sich und genie\u00dfen Sie die sanfte Schaukelbewegung mit einem H\u00e4ngesessel oder Schwebesessel von M\u00f6belius."
+            "title": "Hängesessel & Schwebesessel",
+            "text": "Erleben Sie Entspannung auf eine neue Art und Weise mit unseren Hängesesseln und Schwebesesseln von Möbelius. Diese Sessel bieten eine bequeme und entspannende Sitzmöglichkeit, die Sie auf eine schwebende Reise durch Ihr Zuhause mitnimmt. Unsere Hängesessel und Schwebesessel sind in verschiedenen Größen, Farben und Materialien erhältlich und eignen sich perfekt für den Einsatz im Freien oder Innenbereich. Entspannen Sie sich und genießen Sie die sanfte Schaukelbewegung mit einem Hängesessel oder Schwebesessel von Möbelius."
           },
           {
-            "title": "Schr\u00e4nke",
-            "text": "<a href=\"/kategorie/schraenke/\" title=\"Schr\u00e4nke\">Schr\u00e4nke</a> sind ein wichtiger Bestandteil jeder Wohnung. Sie dienen als praktischer Stauraum f\u00fcr Kleidung, Schuhe, B\u00fccher und vieles mehr. In unserem Online-Shop M\u00f6belius bieten wir eine gro\u00dfe Auswahl an Schr\u00e4nken in verschiedenen Gr\u00f6\u00dfen, Farben und Stilen. Von klassischen Schr\u00e4nken bis hin zu modernen, minimalen Designs ist f\u00fcr jeden Geschmack etwas dabei. St\u00f6bern Sie durch unser Sortiment und finden Sie den passenden Schrank f\u00fcr Ihr Zuhause."
+            "title": "Schränke",
+            "text": "<a href=\"/kategorie/schraenke/\" title=\"Schränke\">Schränke</a> sind ein wichtiger Bestandteil jeder Wohnung. Sie dienen als praktischer Stauraum für Kleidung, Schuhe, Bücher und vieles mehr. In unserem Online-Shop Möbelius bieten wir eine große Auswahl an Schränken in verschiedenen Größen, Farben und Stilen. Von klassischen Schränken bis hin zu modernen, minimalen Designs ist für jeden Geschmack etwas dabei. Stöbern Sie durch unser Sortiment und finden Sie den passenden Schrank für Ihr Zuhause."
           },
           {
-            "title": "Garderobenschr\u00e4nke & Kompaktgarderoben",
-            "text": "Garderobenschr\u00e4nke und Kompaktgarderoben sind die perfekte L\u00f6sung f\u00fcr kleine Fl\u00e4chen. Sie bieten viel Stauraum f\u00fcr Jacken, Schuhe und Accessoires, ohne dabei viel Platz einzunehmen. In unserem Online-Shop M\u00f6belius finden Sie eine gro\u00dfe Auswahl an Garderobenschr\u00e4nken und Kompaktgarderoben in verschiedenen Gr\u00f6\u00dfen und Designs. Von klassisch bis modern, wir haben f\u00fcr jeden Geschmack das passende St\u00fcck. Entdecken Sie jetzt unsere Garderobenschr\u00e4nke und Kompaktgarderoben."
+            "title": "Garderobenschränke & Kompaktgarderoben",
+            "text": "Garderobenschränke und Kompaktgarderoben sind die perfekte Lösung für kleine Flächen. Sie bieten viel Stauraum für Jacken, Schuhe und Accessoires, ohne dabei viel Platz einzunehmen. In unserem Online-Shop Möbelius finden Sie eine große Auswahl an Garderobenschränken und Kompaktgarderoben in verschiedenen Größen und Designs. Von klassisch bis modern, wir haben für jeden Geschmack das passende Stück. Entdecken Sie jetzt unsere Garderobenschränke und Kompaktgarderoben."
           },
           {
             "title": "Kommoden & Sideboards",
-            "text": "Kommoden und Sideboards sind nicht nur praktische Staurauml\u00f6sungen, sondern auch ein wichtiger Bestandteil des Wohnraumdesigns. In unserem Online-Shop M\u00f6belius finden Sie eine gro\u00dfe Auswahl an Kommoden und Sideboards in verschiedenen Gr\u00f6\u00dfen, Farben und Stilen. Von klassischen Designs bis hin zu modernen, minimalistischen St\u00fccken ist f\u00fcr jeden Geschmack etwas dabei. Entdecken Sie jetzt unsere Kommoden und Sideboards und finden Sie das passende St\u00fcck f\u00fcr Ihr Zuhause."
+            "text": "Kommoden und Sideboards sind nicht nur praktische Stauraumlösungen, sondern auch ein wichtiger Bestandteil des Wohnraumdesigns. In unserem Online-Shop Möbelius finden Sie eine große Auswahl an Kommoden und Sideboards in verschiedenen Größen, Farben und Stilen. Von klassischen Designs bis hin zu modernen, minimalistischen Stücken ist für jeden Geschmack etwas dabei. Entdecken Sie jetzt unsere Kommoden und Sideboards und finden Sie das passende Stück für Ihr Zuhause."
           },
           {
             "title": "Schuhkommoden",
-            "text": "<a href=\"/kategorie/schuhkommoden/\" title=\"Schuhkommoden\">Schuhkommoden</a> sind die perfekte L\u00f6sung f\u00fcr das Aufbewahren von Schuhen in einer ordentlichen und platzsparenden Art und Weise. Bei M\u00f6belius finden Sie eine gro\u00dfe Auswahl an Schuhkommoden in verschiedenen Gr\u00f6\u00dfen, Farben und Designs. Ob Sie eine kompakte L\u00f6sung f\u00fcr Ihren Flur ben\u00f6tigen oder eine gr\u00f6\u00dfere Kommode f\u00fcr Ihren begehbaren Kleiderschrank, bei uns werden Sie f\u00fcndig. Entdecken Sie jetzt die vielf\u00e4ltigen M\u00f6glichkeiten und bestellen Sie bequem online."
+            "text": "<a href=\"/kategorie/schuhkommoden/\" title=\"Schuhkommoden\">Schuhkommoden</a> sind die perfekte Lösung für das Aufbewahren von Schuhen in einer ordentlichen und platzsparenden Art und Weise. Bei Möbelius finden Sie eine große Auswahl an Schuhkommoden in verschiedenen Größen, Farben und Designs. Ob Sie eine kompakte Lösung für Ihren Flur benötigen oder eine größere Kommode für Ihren begehbaren Kleiderschrank, bei uns werden Sie fündig. Entdecken Sie jetzt die vielfältigen Möglichkeiten und bestellen Sie bequem online."
           },
           {
             "title": "Kinderbetten & Jugendbetten",
-            "text": "Ein bequemes und sicheres Bett ist f\u00fcr Kinder und Jugendliche von gro\u00dfer Bedeutung. Bei M\u00f6belius finden Sie eine gro\u00dfe Auswahl an Kinder- und Jugendbetten in verschiedenen Gr\u00f6\u00dfen und Designs. Ob Sie ein klassisches Holzbett oder ein modernes Metallbett bevorzugen, bei uns werden Sie f\u00fcndig. Auch bei den Farben und Mustern haben Sie die Wahl. \u00dcberzeugen Sie sich selbst und bestellen Sie jetzt bequem online."
+            "text": "Ein bequemes und sicheres Bett ist für Kinder und Jugendliche von großer Bedeutung. Bei Möbelius finden Sie eine große Auswahl an Kinder- und Jugendbetten in verschiedenen Größen und Designs. Ob Sie ein klassisches Holzbett oder ein modernes Metallbett bevorzugen, bei uns werden Sie fündig. Auch bei den Farben und Mustern haben Sie die Wahl. Überzeugen Sie sich selbst und bestellen Sie jetzt bequem online."
           },
           {
             "title": "Abenteuerbetten",
-            "text": "<a href=\"/kategorie/abenteuerbetten/\" title=\"Abenteuerbetten\">Abenteuerbetten</a> sind ein echter Hingucker f\u00fcr das Kinderzimmer. Die ausgefallenen und kreativen Betten bieten nicht nur ein bequemes Schlafgef\u00fchl, sondern auch viel Spa\u00df und Abenteuer. Bei M\u00f6belius finden Sie eine gro\u00dfe Auswahl an Abenteuerbetten in verschiedenen Gr\u00f6\u00dfen und Designs. Ob Sie ein Schiff, eine Burg oder ein Baumhaus bevorzugen, bei uns werden Sie f\u00fcndig. \u00dcberzeugen Sie sich selbst und bestellen Sie jetzt bequem online."
+            "text": "<a href=\"/kategorie/abenteuerbetten/\" title=\"Abenteuerbetten\">Abenteuerbetten</a> sind ein echter Hingucker für das Kinderzimmer. Die ausgefallenen und kreativen Betten bieten nicht nur ein bequemes Schlafgefühl, sondern auch viel Spaß und Abenteuer. Bei Möbelius finden Sie eine große Auswahl an Abenteuerbetten in verschiedenen Größen und Designs. Ob Sie ein Schiff, eine Burg oder ein Baumhaus bevorzugen, bei uns werden Sie fündig. Überzeugen Sie sich selbst und bestellen Sie jetzt bequem online."
           },
           {
             "title": "Sitzhocker",
-            "text": "Entdecken Sie bei M\u00f6belius eine gro\u00dfe Auswahl an <a href=\"/kategorie/sitzhocker/\" title=\"Sitzhocker\">Sitzhocker</a>n f\u00fcr Ihr Zuhause. Ob als erg\u00e4nzender Sitzplatz oder als platzsparende Sitzm\u00f6glichkeit - unsere Sitzhocker bieten bequeme Sitzm\u00f6glichkeiten und lassen sich einfach verstauen, wenn sie nicht ben\u00f6tigt werden. W\u00e4hlen Sie aus verschiedenen Designs und Farben, um den perfekten Sitzhocker f\u00fcr Ihr Interieur zu finden."
+            "text": "Entdecken Sie bei Möbelius eine große Auswahl an <a href=\"/kategorie/sitzhocker/\" title=\"Sitzhocker\">Sitzhocker</a>n für Ihr Zuhause. Ob als ergänzender Sitzplatz oder als platzsparende Sitzmöglichkeit - unsere Sitzhocker bieten bequeme Sitzmöglichkeiten und lassen sich einfach verstauen, wenn sie nicht benötigt werden. Wählen Sie aus verschiedenen Designs und Farben, um den perfekten Sitzhocker für Ihr Interieur zu finden."
           },
           {
-            "title": "Klappst\u00fchle",
-            "text": "Bei M\u00f6belius finden Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/klappstuehle/\" title=\"Klappst\u00fchle\">Klappst\u00fchle</a>n, die sich platzsparend verstauen lassen. Unsere Klappst\u00fchle sind in verschiedenen Designs und Farben erh\u00e4ltlich und eignen sich perfekt f\u00fcr den Einsatz im Garten, auf dem Balkon oder im Innenbereich. Ob beim Camping, bei Gartenfesten oder als erg\u00e4nzender Sitzplatz - unsere Klappst\u00fchle bieten bequeme Sitzm\u00f6glichkeiten und lassen sich einfach verstauen, wenn sie nicht ben\u00f6tigt werden."
+            "title": "Klappstühle",
+            "text": "Bei Möbelius finden Sie eine große Auswahl an <a href=\"/kategorie/klappstuehle/\" title=\"Klappstühle\">Klappstühle</a>n, die sich platzsparend verstauen lassen. Unsere Klappstühle sind in verschiedenen Designs und Farben erhältlich und eignen sich perfekt für den Einsatz im Garten, auf dem Balkon oder im Innenbereich. Ob beim Camping, bei Gartenfesten oder als ergänzender Sitzplatz - unsere Klappstühle bieten bequeme Sitzmöglichkeiten und lassen sich einfach verstauen, wenn sie nicht benötigt werden."
           },
           {
-            "title": "Kinderst\u00fchle",
-            "text": "Bei M\u00f6belius finden Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/kinderstuehle/\" title=\"Kinderst\u00fchle\">Kinderst\u00fchle</a>n, die sich perfekt f\u00fcr Kinder jeden Alters eignen. Unsere Kinderst\u00fchle sind in verschiedenen Designs und Farben erh\u00e4ltlich und bieten eine bequeme Sitzm\u00f6glichkeit f\u00fcr Kinder, w\u00e4hrend sie ihre Hausaufgaben erledigen, lesen oder spielen. W\u00e4hlen Sie aus verschiedenen Designs und Farben, um den perfekten Kinderstuhl f\u00fcr Ihr Zuhause zu finden."
+            "title": "Kinderstühle",
+            "text": "Bei Möbelius finden Sie eine große Auswahl an <a href=\"/kategorie/kinderstuehle/\" title=\"Kinderstühle\">Kinderstühle</a>n, die sich perfekt für Kinder jeden Alters eignen. Unsere Kinderstühle sind in verschiedenen Designs und Farben erhältlich und bieten eine bequeme Sitzmöglichkeit für Kinder, während sie ihre Hausaufgaben erledigen, lesen oder spielen. Wählen Sie aus verschiedenen Designs und Farben, um den perfekten Kinderstuhl für Ihr Zuhause zu finden."
           },
           {
             "title": "Wohnzimmertische",
-            "text": "In unserer Kategorie <a href=\"/kategorie/wohnzimmertische/\" title=\"Wohnzimmertische\">Wohnzimmertische</a> finden Sie eine gro\u00dfe Auswahl an Tischen f\u00fcr Ihr Wohnzimmer. Ob als Esstisch oder als dekoratives M\u00f6belst\u00fcck, wir haben f\u00fcr jeden Geschmack das passende Modell. Entdecken Sie Tische in verschiedenen Gr\u00f6\u00dfen, Materialien und Designs. W\u00e4hlen Sie zwischen runden, ovalen oder eckigen Tischen, aus Massivholz, Glas oder Metall. Verleihen Sie Ihrem Wohnzimmer durch einen neuen Tisch eine frische Note."
+            "text": "In unserer Kategorie <a href=\"/kategorie/wohnzimmertische/\" title=\"Wohnzimmertische\">Wohnzimmertische</a> finden Sie eine große Auswahl an Tischen für Ihr Wohnzimmer. Ob als Esstisch oder als dekoratives Möbelstück, wir haben für jeden Geschmack das passende Modell. Entdecken Sie Tische in verschiedenen Größen, Materialien und Designs. Wählen Sie zwischen runden, ovalen oder eckigen Tischen, aus Massivholz, Glas oder Metall. Verleihen Sie Ihrem Wohnzimmer durch einen neuen Tisch eine frische Note."
           },
           {
             "title": "Beistelltische",
-            "text": "In unserer Kategorie <a href=\"/kategorie/beistelltische/\" title=\"Beistelltische\">Beistelltische</a> finden Sie kleine Tische, die Sie flexibel im Raum platzieren k\u00f6nnen. Ob neben dem Sofa als Ablagefl\u00e4che f\u00fcr Getr\u00e4nke oder als dekoratives M\u00f6belst\u00fcck, Beistelltische sind ein echter Hingucker. W\u00e4hlen Sie zwischen Tischen aus Massivholz, Glas oder Metall in verschiedenen Designs und Gr\u00f6\u00dfen. Verleihen Sie Ihrem Wohnzimmer mit einem neuen Beistelltisch eine besondere Note."
+            "text": "In unserer Kategorie <a href=\"/kategorie/beistelltische/\" title=\"Beistelltische\">Beistelltische</a> finden Sie kleine Tische, die Sie flexibel im Raum platzieren können. Ob neben dem Sofa als Ablagefläche für Getränke oder als dekoratives Möbelstück, Beistelltische sind ein echter Hingucker. Wählen Sie zwischen Tischen aus Massivholz, Glas oder Metall in verschiedenen Designs und Größen. Verleihen Sie Ihrem Wohnzimmer mit einem neuen Beistelltisch eine besondere Note."
           },
           {
             "title": "Garderoben",
-            "text": "In unserer Kategorie <a href=\"/kategorie/garderoben/\" title=\"Garderoben\">Garderoben</a> finden Sie praktische und stilvolle Aufbewahrungsm\u00f6glichkeiten f\u00fcr Ihre Jacken, Schuhe und Accessoires. Ob als Garderobenst\u00e4nder, Garderobenbank oder Garderobenschrank, wir haben f\u00fcr jeden Bedarf das passende Modell. Entdecken Sie Garderoben in verschiedenen Gr\u00f6\u00dfen, Materialien und Designs. W\u00e4hlen Sie zwischen Garderoben aus Massivholz, Metall oder Kunststoff. Verleihen Sie Ihrem Eingangsbereich durch eine neue Garderobe eine stilvolle Note."
+            "text": "In unserer Kategorie <a href=\"/kategorie/garderoben/\" title=\"Garderoben\">Garderoben</a> finden Sie praktische und stilvolle Aufbewahrungsmöglichkeiten für Ihre Jacken, Schuhe und Accessoires. Ob als Garderobenständer, Garderobenbank oder Garderobenschrank, wir haben für jeden Bedarf das passende Modell. Entdecken Sie Garderoben in verschiedenen Größen, Materialien und Designs. Wählen Sie zwischen Garderoben aus Massivholz, Metall oder Kunststoff. Verleihen Sie Ihrem Eingangsbereich durch eine neue Garderobe eine stilvolle Note."
           },
           {
-            "title": "Kleiderst\u00e4nder & Garderobenst\u00e4nder",
-            "text": "Erleben Sie die Vielfalt an Kleiderst\u00e4ndern und Garderobenst\u00e4ndern bei M\u00f6belius. Unsere Produkte bieten Ihnen eine praktische und stilvolle L\u00f6sung, um Ihre Kleidung und Accessoires ordentlich aufzubewahren. Ob f\u00fcr den Eingangsbereich, das Schlafzimmer oder das Badezimmer, wir haben eine gro\u00dfe Auswahl an Designs und Materialien, um Ihren Bed\u00fcrfnissen gerecht zu werden. Entdecken Sie jetzt bei M\u00f6belius Ihren neuen Kleiderst\u00e4nder oder Garderobenst\u00e4nder."
+            "title": "Kleiderständer & Garderobenständer",
+            "text": "Erleben Sie die Vielfalt an Kleiderständern und Garderobenständern bei Möbelius. Unsere Produkte bieten Ihnen eine praktische und stilvolle Lösung, um Ihre Kleidung und Accessoires ordentlich aufzubewahren. Ob für den Eingangsbereich, das Schlafzimmer oder das Badezimmer, wir haben eine große Auswahl an Designs und Materialien, um Ihren Bedürfnissen gerecht zu werden. Entdecken Sie jetzt bei Möbelius Ihren neuen Kleiderständer oder Garderobenständer."
           },
           {
-            "title": "T\u00fcrhaken",
-            "text": "M\u00f6belius bietet eine gro\u00dfe Auswahl an <a href=\"/kategorie/tuerhaken/\" title=\"T\u00fcrhaken\">T\u00fcrhaken</a>, um Ihre Kleidung und Accessoires platzsparend aufzubewahren. Unsere T\u00fcrhaken sind aus hochwertigen Materialien hergestellt und in verschiedenen Designs erh\u00e4ltlich. Ob Sie einen T\u00fcrhaken f\u00fcr Ihr Schlafzimmer, Badezimmer oder Flur ben\u00f6tigen, wir haben eine gro\u00dfe Auswahl, um Ihren Bed\u00fcrfnissen gerecht zu werden. Entdecken Sie jetzt bei M\u00f6belius Ihren neuen T\u00fcrhaken."
+            "title": "Türhaken",
+            "text": "Möbelius bietet eine große Auswahl an <a href=\"/kategorie/tuerhaken/\" title=\"Türhaken\">Türhaken</a>, um Ihre Kleidung und Accessoires platzsparend aufzubewahren. Unsere Türhaken sind aus hochwertigen Materialien hergestellt und in verschiedenen Designs erhältlich. Ob Sie einen Türhaken für Ihr Schlafzimmer, Badezimmer oder Flur benötigen, wir haben eine große Auswahl, um Ihren Bedürfnissen gerecht zu werden. Entdecken Sie jetzt bei Möbelius Ihren neuen Türhaken."
           }
         ]
       }
     },
     "shop": {
-      "title": "m\u00f6belius.de | Der Shop f\u00fcr M\u00f6bel",
-      "metaDescription": "Hier gibt's alles, was das Herz begehrt: Stuhl, Tisch, Bett, Kommode, Regal und mehr! | Gro\u00dfe Auswahl & einfache Produktsuche. Schnelle Lieferung.",
+      "title": "möbelius.de | Der Shop für Möbel",
+      "metaDescription": "Hier gibt's alles, was das Herz begehrt: Stuhl, Tisch, Bett, Kommode, Regal und mehr! | Große Auswahl & einfache Produktsuche. Schnelle Lieferung.",
       "robots": "index, follow"
     },
     "hersteller": {
-      "title": "Wohnm\u00f6bel | Die besten M\u00f6belhersteller Deutschlands",
-      "metaDescription": "Unsere M\u00f6belhersteller auf einen Blick. | Entdecken Sie Qualit\u00e4tsm\u00f6bel namhafter Hersteller wie: Wenko, Greemotion, Siena Garden, Lechuza, Posseik uvm.",
+      "title": "Wohnmöbel | Die besten Möbelhersteller Deutschlands",
+      "metaDescription": "Unsere Möbelhersteller auf einen Blick. | Entdecken Sie Qualitätsmöbel namhafter Hersteller wie: Wenko, Greemotion, Siena Garden, Lechuza, Posseik uvm.",
       "robots": "index, follow"
     }
   },
   "productSeo": {
-    "defaultTitle": "$PRODUKT kaufen auf M\u00f6belius.de",
-    "defaultMetaDescription": "Entdecken Sie in der Kategorie $KATEGORIE tolle M\u00f6bel wie $PRODUKT von namhaften Herstellern wie z.B. $HERSTELLER. | Sofort verf\u00fcgbar & schnell geliefert!",
+    "defaultTitle": "$PRODUKT kaufen auf Möbelius.de",
+    "defaultMetaDescription": "Entdecken Sie in der Kategorie $KATEGORIE tolle Möbel wie $PRODUKT von namhaften Herstellern wie z.B. $HERSTELLER. | Sofort verfügbar & schnell geliefert!",
     "defaultRobots": "index, follow",
     "products": [
       {
         "sku": "5637909794",
         "name": "Ortovox PALA PANTS Kletterhose",
         "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
           "robots": "index, follow"
+        }
+      },
+      {
+        "sku": "9181884",
+        "seo": {
+          "texts": [
+            {
+              "title": "Wenko Weinregal Loft Bambus Braun",
+              "text": "<p class=\"justify\">Das Wenko Weinregal Loft Bambus Braun ist ein stilvolles und praktisches Accessoire für jeden Weinliebhaber. Mit diesem Weinregal können Sie bis zu sechs Flaschen ansprechend und sicher aufbewahren. Das ansprechende Design im Industrial Style verleiht Ihrem Wohnraum eine besondere Note und passt ideal zu hellen Küchen, Badezimmern und Schlafzimmern. Kontrastreich und auffällig setzen die Möbel der Loft Design Serie von Wenko einen Akzent, der die Aufmerksamkeit Ihrer Gäste auf sich zieht.</p><p class=\"justify\">Die Marke Wenko legt großen Wert auf hohe Qualität und Nachhaltigkeit. Daher ist das Wenko Weinregal Loft Bambus Braun besonders haltbar und widerstandsfähig. Gefertigt ist es aus hochwertigem Bambus, einem schnell nachwachsenden Rohstoff mit klaren ökologischen Vorteilen. Der stabile Rahmen aus schwarzem, pulverbeschichtetem Metall sorgt für den gewünschten Kontrast und unterstreicht den edlen Look des Weinregals.</p><p class=\"justify\">Neben der Aufbewahrung von Weinflaschen bietet das Weinregal Loft zusätzlich eine praktische Ablage, die sich ideal eignet, um Gläser, Accessoires und Dekorationsartikel unterzubringen. Mit den Maßen 30 cm x 27,5 cm x 24 cm findet das Weinregal in jedem Raum seinen Platz und sorgt für urbanes Loft Flair in Ihrem Zuhause.</p><p class=\"justify\">Die Kombination aus Bambus, schwarzen Metallrahmen und der zeitlosen Farbe Braun macht das Wenko Weinregal Loft Bambus Braun zu einem attraktiven Hingucker in Ihren Wohnräumen. Die positiven Kundenbewertungen mit durchschnittlich fünf Sternen und einer großen Anzahl von Rezensionen unterstreichen die Qualität und das ansprechende Design dieses Produkts. Für jeden, der Wert auf stilvolle Aufbewahrung und ansprechendes Design legt, ist das Wenko Weinregal Loft Bambus Braun eine ausgezeichnete Wahl.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "4416962",
+        "seo": {
+          "texts": [
+            {
+              "title": "Duraline Wandboard XL4 Hochglanz Weiß 60 cm x 23,5 cm x 4 cm",
+              "text": "<p class=\"justify\">Das Duraline Wandboard XL4 Hochglanz Weiß ist ein stilvolles und praktisches Wandregal, das sich hervorragend für verschiedenste Einsatzbereiche eignet. Mit seiner Länge von 60 cm, einer Tiefe von 23,5 cm und einer Dicke von 4 cm bietet es ausreichend Platz für eine Vielzahl von Gegenständen und gewährleistet einen ordentlichen und sauberen Look.</p><p class=\"justify\">Das Wandboard der Marke Sonstige hat die SKU 4416962 und die GTIN13 8718848100210. Es gehört zur Kategorie \"Wandregal\" und lässt sich in verschiedenen Räumen verwenden, sei es in der Küche für Gewürze und Kochutensilien, im Wohnbereich für Bücher und Deko-Items oder im Badezimmer für Pflegeprodukte und Handtücher. Durch das dezente Weiß und die glänzende Oberfläche passt dieses Wandregal perfekt in jeden Einrichtungsstil und verleiht Ihrem Zuhause eine moderne Note.</p><p class=\"justify\">Die Montage des Duraline Wandboards XL4 Hochglanz Weiß ist dank der mitgelieferten Regalbügel kinderleicht und ermöglicht eine 100% unsichtbare Befestigung an der Wand. Es sind keine zusätzlichen Schrauben zum Justieren des Regals erforderlich, was für ein sauberes und minimalistisches Erscheinungsbild sorgt. Zudem kann das Wandboard eine maximale Tragkraft von 10 kg aufweisen und bietet somit genügend Stabilität für Ihre Gegenstände und Dekorationen.</p><p class=\"justify\">Mit einer Review-Anzahl von 265 und 5 Sternen bewerten die Kunden dieses Produkt als hochwertig, robust und optisch ansprechend. Setzen auch Sie auf das Duraline Wandboard XL4 Hochglanz Weiß und schaffen Sie zusätzlichen Stauraum in Ihrem Zuhause, der sowohl praktisch als auch stilvoll ist.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "1076801",
+        "seo": {
+          "texts": [
+            {
+              "title": "Barstuhl Smith 39 cm x 44 cm von Sonstige",
+              "text": "<p class=\"justify\">Der Barstuhl Smith mit den Maßen 39 cm x 44 cm von der Marke Sonstige ist eine hervorragende Ergänzung für Ihr Zuhause. Dieser Barhocker bietet Ihnen eine bequeme und stilvolle Sitzgelegenheit in Ihrem Wohnbereich, Ihrer Küche oder Ihrem Esszimmer. Mit seinem modernen Design aus Chrom und Kunststoff weiß dieser schwarz-weiße Barstuhl zu überzeugen.</p><p class=\"justify\">Die Sitzfläche des Barstuhls Smith ist dank des Kunstleder Bezugs angenehm weich und zugleich pflegeleicht, da der Bezug aus unkompliziertem Kunststoff besteht. Ein besonderes Highlight sind die praktischen Fußstützen, welche für zusätzlichen Komfort und Entspannung sorgen. Die individuelle Höhenverstellbarkeit des Barstuhls ermöglicht Ihnen, Ihre Sitzposition optimal anzupassen und somit stets bequem zu sitzen.</p><p class=\"justify\">Eingeschätzt mit 5 Sternen aus insgesamt 442 Bewertungen, zeigt der Barstuhl Smith 39 cm x 44 cm, dass er in puncto Qualität und Design auf ganzer Linie punktet. Das Produkt hat die GTIN-Nummer 4048124033449 und gehört in die Kategorie Barhocker, womit er sich nahtlos in jedes Wohnkonzept einfügt.</p><p class=\"justify\">Mit einer attraktiven Preisgestaltung von 58,99 € ist der Barstuhl Smith ein überzeugendes Möbelstück für jeden Liebhaber moderner und gemütlicher Sitzgelegenheiten. Beeindrucken Sie Ihre Gäste und schaffen Sie sich eine einladende Atmosphäre mit diesem formschönen Barstuhl von Sonstige.</p>"
+            }
+          ]
         }
       }
     ]
   },
   "categorySeo": {
-    "defaultTitle": "$KATEGORIE \u2013 Gro\u00dfe Auswahl und preiswert",
-    "defaultMetaDescription": "M\u00f6bel f\u00fcr jeden Geschmack und jedes Budget. \u00dcberzeuge dich von der gro\u00dfen Auswahl in unserem Shop und finde dein neues Lieblingsst\u00fcck im Bereich $KATEGORIE!",
+    "defaultTitle": "$KATEGORIE – Große Auswahl und preiswert",
+    "defaultMetaDescription": "Möbel für jeden Geschmack und jedes Budget. Überzeuge dich von der großen Auswahl in unserem Shop und finde dein neues Lieblingsstück im Bereich $KATEGORIE!",
     "defaultRobots": "index, follow",
     "categories": [
       {
@@ -226,8 +259,8 @@
         "slug": "sporthosen",
         "name": "Sporthosen",
         "seo": {
-          "title": "Sporthosen g\u00fcnstig kaufen",
-          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "title": "Sporthosen günstig kaufen",
+          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
           "robots": "index, follow",
           "texts": [
             {
@@ -244,16 +277,16 @@
     ]
   },
   "brandSeo": {
-    "defaultTitle": "$HERSTELLER - Qualit\u00e4t zu fairen Preisen",
-    "defaultMetaDescription": "Entdecken Sie tolle M\u00f6bel des renommierten Herstellers $HERSTELLER | Hochwertig verarbeitete M\u00f6bel zu fairen Preisen. | Im Shop erh\u00e4ltlich & sofort lieferbar.",
+    "defaultTitle": "$HERSTELLER - Qualität zu fairen Preisen",
+    "defaultMetaDescription": "Entdecken Sie tolle Möbel des renommierten Herstellers $HERSTELLER | Hochwertig verarbeitete Möbel zu fairen Preisen. | Im Shop erhältlich & sofort lieferbar.",
     "defaultRobots": "index, follow",
     "brands": [
       {
         "key": "palm",
         "name": "Palm",
         "seo": {
-          "title": "Produkte von Palm g\u00fcnstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "title": "Produkte von Palm günstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
           "robots": "index, follow"
         }
       }
@@ -263,19 +296,19 @@
     {
       "title": "Start",
       "linkTo": "/",
-      "linkTitle": "M\u00f6bel",
+      "linkTitle": "Möbel",
       "publish": true
     },
     {
       "title": "Shop",
       "linkTo": "/shop/",
-      "linkTitle": "M\u00f6bel Shop",
+      "linkTitle": "Möbel Shop",
       "publish": true
     },
     {
       "title": "Marken",
       "linkTo": "/marken/",
-      "linkTitle": "M\u00f6bel Marken",
+      "linkTitle": "Möbel Marken",
       "publish": true
     },
     {
